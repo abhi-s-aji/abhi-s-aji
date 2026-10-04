@@ -1,4 +1,4 @@
-# Hi, I'm Abhi S Aji 👋
+# Hi, I'm Abhi S Aji 
 
 I'm a 3rd-year Computer Science undergraduate interested in software development, with hands-on experience building and maintaining real-world applications.
 
