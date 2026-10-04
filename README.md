@@ -1,36 +1,34 @@
 # Hi, I'm Abhi S Aji 
 
-I'm a 3rd-year Computer Science undergraduate interested in software development, with hands-on experience building and maintaining real-world applications.
+I'm a 3rd-year Computer Science undergraduate with hands-on experience
+building and maintaining real-world software across different technologies.
 
 ### What I Do
 
-- Build software across web, backend, Android, and cross-platform applications
-- Work with different technologies and adapt to the stack a project requires
-- Build and integrate APIs, databases, authentication, and application logic
-- Learn unfamiliar technologies and work with existing codebases
-- Debug, improve, maintain, and iterate on software
-- Use AI-assisted development tools to improve productivity and development efficiency while reviewing and understanding the generated work
+- Build web, backend, Android, and cross-platform applications
+- Adapt quickly to different technologies, stacks, and existing codebases
+- Work with APIs, databases, authentication, and application logic
+- Debug, improve, and maintain software
+- Use AI-assisted development tools to improve productivity and development efficiency
 
 ### Technologies
 
-**Web & Backend**  
-JavaScript · TypeScript · React · Next.js · Node.js · Python · Django · REST APIs
+**Web & Backend:** JavaScript · TypeScript · React · Next.js · Node.js · Python · Django · REST APIs
 
-**Mobile**  
-Flutter · Dart · Kotlin · Android
+**Mobile:** Flutter · Dart · Kotlin · Android
 
-**Data & Tools**  
-PostgreSQL · Supabase · SQLite · Git · GitHub · Linux
+**Data & Tools:** PostgreSQL · Supabase · SQLite · Git · GitHub · Linux
 
-My GitHub contains various projects built using different technologies, reflecting my interest in learning, experimenting, and adapting to different software development environments.
+I build projects using different technologies to continuously learn,
+experiment, and adapt to different software development environments.
 
-### Currently
+### Looking For
 
-I'm focused on strengthening my software engineering fundamentals, improving my development skills, and preparing for internship and entry-level software engineering opportunities.
+Internships and entry-level software engineering opportunities where
+I can learn, contribute, build, and grow as a developer.
 
 ### Connect
 
-- **GitHub:** [github.com/abhi-s-aji](https://github.com/abhi-s-aji)
-- **LinkedIn:** [linkedin.com/in/abhi-s-aji-eden](https://www.linkedin.com/in/abhi-s-aji-eden/)
-- **Email:** [abhisajieden@gmail.com](mailto:abhisajieden@gmail.com)
-- **Email:** [abhisaji.dev@gmail.com](mailto:abhisaji.dev@gmail.com)
+- **GitHub:** [abhi-s-aji](https://github.com/abhi-s-aji)
+- **LinkedIn:** [abhi-s-aji-eden](https://www.linkedin.com/in/abhi-s-aji-eden/)
+- **Email:** abhisajieden@gmail.com · abhisaji.dev@gmail.com
