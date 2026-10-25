@@ -32,4 +32,4 @@ I can learn, contribute, build, and grow as a developer.
 - **GitHub:** [abhi-s-aji](https://github.com/abhi-s-aji)
 - **LinkedIn:** [abhi-s-aji-eden](https://www.linkedin.com/in/abhi-s-aji-eden/)
 - **Email:** abhisajieden@gmail.com · abhisaji.dev@gmail.com
-- **Website:** [abhi-s-aji.github.io](https://abhi-s-aji.github.io)
+- **Blog:** [abhi-s-aji.github.io](https://abhi-s-aji.github.io)
